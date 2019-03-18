@@ -65,11 +65,11 @@
 - 2018-ICMLb-[Obfuscated gradients give a false sense of security: Circumventing defenses to adversarial examples](http://proceedings.mlr.press/v80/athalye18a/athalye18a.pdf) [[Supp](http://proceedings.mlr.press/v80/athalye18a/athalye18a-supp.pdf)] [[Code](https://github.com/anishathalye/obfuscated-gradients)]
 - 2018-NDSS-[Feature squeezing: Detecting adversarial examples in deep neural networks](https://arxiv.org/abs/1704.01155)
 - 2017.9-Ground-truth adversarial examples (1709.10207)
-- 2016.2-Practical Black-Box Attacks against Machine Learning (1602.02697)
+- 2017-Asia CCS-Practical Black-Box Attacks against Machine Learning (1602.02697) (ACM on Asia Conference on Computer and Communications Security)
 - [Attacking Machine Learning with Adversarial Examples](https://blog.openai.com/adversarial-example-research/)
 - 2018-ICLR-[Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204) [[OpenReview](https://openreview.net/forum?id=rkZvSe-RZ)] (ICLR 2018 accepted at least 11 papers about adversarial attack/defense.)
+- 2018-ICLR-[Stochastic activation pruning for robust adversarial defense](https://openreview.net/forum?id=H1uR4GZRZ)
 - 2017.9-[Gradient Masking in Machine Learning](https://seclab.stanford.edu/AdvML2017/slides/17-09-aro-aml.pdf)
-
 
 
 ## People
